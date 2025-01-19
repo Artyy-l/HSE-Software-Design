@@ -7,4 +7,4 @@
 - [Семинары](Seminars)
 
 ### ДЗ после семинаров
-- [ДЗ 1](Seminars/Sem 1)
+- [ДЗ 1](/Seminars/Sem-1)
