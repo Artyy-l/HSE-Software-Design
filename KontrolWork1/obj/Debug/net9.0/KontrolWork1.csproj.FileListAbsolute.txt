@@ -1,0 +1,14 @@
+D:\Projects\RiderProjects\HSE\Software-Design\KontrolWorks\KontrolWork1\KontrolWork1\bin\Debug\net9.0\KontrolWork1.exe
+D:\Projects\RiderProjects\HSE\Software-Design\KontrolWorks\KontrolWork1\KontrolWork1\bin\Debug\net9.0\KontrolWork1.deps.json
+D:\Projects\RiderProjects\HSE\Software-Design\KontrolWorks\KontrolWork1\KontrolWork1\bin\Debug\net9.0\KontrolWork1.runtimeconfig.json
+D:\Projects\RiderProjects\HSE\Software-Design\KontrolWorks\KontrolWork1\KontrolWork1\bin\Debug\net9.0\KontrolWork1.dll
+D:\Projects\RiderProjects\HSE\Software-Design\KontrolWorks\KontrolWork1\KontrolWork1\bin\Debug\net9.0\KontrolWork1.pdb
+D:\Projects\RiderProjects\HSE\Software-Design\KontrolWorks\KontrolWork1\KontrolWork1\obj\Debug\net9.0\KontrolWork1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\RiderProjects\HSE\Software-Design\KontrolWorks\KontrolWork1\KontrolWork1\obj\Debug\net9.0\KontrolWork1.AssemblyInfoInputs.cache
+D:\Projects\RiderProjects\HSE\Software-Design\KontrolWorks\KontrolWork1\KontrolWork1\obj\Debug\net9.0\KontrolWork1.AssemblyInfo.cs
+D:\Projects\RiderProjects\HSE\Software-Design\KontrolWorks\KontrolWork1\KontrolWork1\obj\Debug\net9.0\KontrolWork1.csproj.CoreCompileInputs.cache
+D:\Projects\RiderProjects\HSE\Software-Design\KontrolWorks\KontrolWork1\KontrolWork1\obj\Debug\net9.0\KontrolWork1.dll
+D:\Projects\RiderProjects\HSE\Software-Design\KontrolWorks\KontrolWork1\KontrolWork1\obj\Debug\net9.0\refint\KontrolWork1.dll
+D:\Projects\RiderProjects\HSE\Software-Design\KontrolWorks\KontrolWork1\KontrolWork1\obj\Debug\net9.0\KontrolWork1.pdb
+D:\Projects\RiderProjects\HSE\Software-Design\KontrolWorks\KontrolWork1\KontrolWork1\obj\Debug\net9.0\KontrolWork1.genruntimeconfig.cache
+D:\Projects\RiderProjects\HSE\Software-Design\KontrolWorks\KontrolWork1\KontrolWork1\obj\Debug\net9.0\ref\KontrolWork1.dll
